@@ -1,8 +1,8 @@
 # 获取全院RestApi授权Token封装库
 
-该GitHub上的源码为Java版本。
+该GitHub上的源码为 `Java `版本。
 
-c# 版本请直接在Nuget中搜索Yiban.CoreService.Client 或 在 Nuget 控制台下运行
+`c#` 版本请直接在Nuget中搜索 `Yiban.CoreService.Client` 或 在 Nuget 控制台下运行
 
     Install-Package Yiban.CoreService.Client -Version 1.0.2
 
